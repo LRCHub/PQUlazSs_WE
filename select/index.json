@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "アイノカタチ (So Special Ver.)",
+  "base_artist": "MISIA",
+  "createdAt": "2025-12-27T11:17:48.056385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/01_アイノカタチ_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_アイノカタチ_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_アイノカタチ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "MISIA feat. HIDE",
+      "has_synced": true,
+      "path": "select/04_アイノカタチ_MISIA_feat._HIDE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイノカタチ (So Special Ver.) - Aino Katachi (So Special Version)",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_アイノカタチ_(So_Special_Ver.)_-_Aino_Katachi_(So_Special_Version)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイノカタチ (So Special Ver.)",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/06_アイノカタチ_(So_Special_Ver.)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイノカタチ (So Special Ver.)",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/07_アイノカタチ_(So_Special_Ver.)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "森内寛樹",
+      "has_synced": true,
+      "path": "select/08_アイノカタチ_森内寛樹.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイノカタチ",
+      "artist": "Dempagumi.Inc",
+      "has_synced": false,
+      "path": "select/09_アイノカタチ_Dempagumi.Inc.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイノカタチ feat.HIDE(GReeeeN)-Tv size-",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/10_アイノカタチ_feat.HIDE(GReeeeN)-Tv_size-_MISIA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイノカタチ - Aino Katachi",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/11_アイノカタチ_-_Aino_Katachi_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイノカタチ - Ainokatachi (feat. hide)",
+      "artist": "Misia",
+      "has_synced": true,
+      "path": "select/12_アイノカタチ_-_Ainokatachi_(feat._hide)_Misia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイノカタチ - Aino Katachi",
+      "artist": "GRe4N BOYZ",
+      "has_synced": true,
+      "path": "select/13_アイノカタチ_-_Aino_Katachi_GRe4N_BOYZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイノカタチ feat.HIDE(GReeeeN)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_アイノカタチ_feat.HIDE(GReeeeN)_MISIA.txt"
+    }
+  ]
+}
